@@ -5,9 +5,12 @@ sections:
   - section_id: hero
     type: section_hero
     title: Abroad Heights
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Our sole aim of providing unbiased and honest opinion to the people who
+      have dreams of pursuing their higher education abroad and also assisting
+      people, who cherished the dreams of migrating to foreign shores. We render
+      end to end services in visa assistance, travel assistance and admissions
+      at the undergraduate and postgraduate levels.
     actions:
       - label: Let's talk
         url: /contact
