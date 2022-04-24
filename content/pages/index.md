@@ -94,7 +94,7 @@ seo:
       value: 'Abroad Heights '
       keyName: property
     - name: 'og:description'
-      value: 'Abroad Heights '
+      value: Abroad Heights Immigration Counsultants
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
