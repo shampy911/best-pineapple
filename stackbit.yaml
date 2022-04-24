@@ -183,8 +183,8 @@ models:
     type: page
     urlPath: /latest
     label: latest
-    layout: blog
-    file: blog/index.md
+    layout: latest
+    file: latest/index.md
     hideContent: true
     singleInstance: true
     fields:
