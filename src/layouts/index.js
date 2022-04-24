@@ -7,7 +7,7 @@ import project from './project';
 
 export {
     advanced,
-    blog,
+    latest,
     page,
     portfolio,
     post,
