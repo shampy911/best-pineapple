@@ -18,8 +18,8 @@
                 "style": "link"
             },
             {
-                "label": "Latest",
-                "url": "/latest/",
+                "label": "blog",
+                "url": "/blog/",
                 "style": "link"
             },
             {
