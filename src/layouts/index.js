@@ -16,7 +16,7 @@ export {
 
 export default {
     advanced,
-    blog,
+    latest,
     page,
     portfolio,
     post,
