@@ -296,11 +296,11 @@ models:
       - type: image
         name: thumb_image
         label: Image (latest Feed)
-        description: The image shown in the blog feed.
+        description: The image shown in the latest feed.
       - type: string
         name: thumb_image_alt
         label: Image Alt Text (latest Feed)
-        description: The alt text of the blog feed image.
+        description: The alt text of the latest feed image.
       - type: image
         name: image
         label: Image (Single Post)
