@@ -181,7 +181,7 @@ models:
           - stackbit_page_meta
   latest:
     type: page
-    urlPath: /blog
+    urlPath: /latest
     label: Blog
     layout: blog
     file: blog/index.md
