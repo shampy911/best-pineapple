@@ -91,7 +91,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Abroad He
+      value: 'Abroad Heights '
       keyName: property
     - name: 'og:description'
       value: The preview of the Exto theme
