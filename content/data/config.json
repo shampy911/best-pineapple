@@ -19,7 +19,7 @@
             },
             {
                 "label": "Latest",
-                "url": "/blog/",
+                "url": "/latest/",
                 "style": "link"
             },
             {
