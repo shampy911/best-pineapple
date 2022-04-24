@@ -108,5 +108,7 @@ seo:
       value: images/exto_preview.png
       relativeUrl: true
   description: Best immigration consultants in India new Delhi
+  robots:
+    - all
 layout: advanced
 ---
