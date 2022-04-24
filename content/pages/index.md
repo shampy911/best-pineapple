@@ -85,7 +85,6 @@ sections:
         style: button
 seo:
   title: Abroad Heights Immigration Consultants
-  description: The preview of the Exto theme
   extra:
     - name: 'og:type'
       value: website
