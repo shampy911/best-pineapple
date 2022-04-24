@@ -1,5 +1,5 @@
 import advanced from './advanced';
-import latest from './latest';
+import blog from './blog';
 import page from './page';
 import portfolio from './portfolio';
 import post from './post';
@@ -7,7 +7,7 @@ import project from './project';
 
 export {
     advanced,
-    latest,
+    blog,
     page,
     portfolio,
     post,
@@ -16,7 +16,7 @@ export {
 
 export default {
     advanced,
-    latest,
+    blog,
     page,
     portfolio,
     post,
