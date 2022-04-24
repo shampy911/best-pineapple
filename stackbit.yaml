@@ -299,7 +299,7 @@ models:
         description: The image shown in the blog feed.
       - type: string
         name: thumb_image_alt
-        label: Image Alt Text (Blog Feed)
+        label: Image Alt Text (latest Feed)
         description: The alt text of the blog feed image.
       - type: image
         name: image
