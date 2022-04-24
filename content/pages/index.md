@@ -94,7 +94,7 @@ seo:
       value: 'Abroad Heights '
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: 'Abroad Heights '
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
