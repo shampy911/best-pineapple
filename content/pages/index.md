@@ -84,7 +84,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: Stackbit Exto Theme
+  title: Abroad Heights Immigration Consultants
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
