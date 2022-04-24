@@ -5,7 +5,7 @@ hide_title: false
 col_number: three
 seo:
   title: Latest
-  description: This is the blog page
+  description: This is the latest page
   extra:
     - name: 'og:type'
       value: website
