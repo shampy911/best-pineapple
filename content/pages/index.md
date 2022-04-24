@@ -81,7 +81,7 @@ sections:
     col_number: three
     actions:
       - label: View Latest
-        url: blog
+        url: latest
         style: button
 seo:
   title: Abroad Heights Immigration Consultants
