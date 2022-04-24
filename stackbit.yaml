@@ -278,7 +278,7 @@ models:
     urlPath: '/latest/{slug}'
     label: Post
     layout: post
-    folder: blog
+    folder: latest
     fields:
       - type: string
         name: title
