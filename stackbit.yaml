@@ -179,12 +179,12 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-  latest:
+  blog:
     type: page
-    urlPath: /latest
-    label: latest
-    layout: latest
-    file: latest/index.md
+    urlPath: /blog
+    label: blog
+    layout: blog
+    file: blog/index.md
     hideContent: true
     singleInstance: true
     fields:
@@ -249,7 +249,7 @@ models:
     label: Page
     layout: page
     exclude:
-      - latest/**
+      - blog/**
       - portfolio/**
     fields:
       - type: string
@@ -275,10 +275,10 @@ models:
           - stackbit_page_meta
   post:
     type: page
-    urlPath: '/latest/{slug}'
+    urlPath: '/blog/{slug}'
     label: Post
     layout: post
-    folder: latest
+    folder: blog
     fields:
       - type: string
         name: title
@@ -295,12 +295,12 @@ models:
         required: true
       - type: image
         name: thumb_image
-        label: Image (latest Feed)
-        description: The image shown in the latest feed.
+        label: Image (blog Feed)
+        description: The image shown in the blog feed.
       - type: string
         name: thumb_image_alt
-        label: Image Alt Text (latest Feed)
-        description: The alt text of the latest feed image.
+        label: Image Alt Text (blog Feed)
+        description: The alt text of the blog feed image.
       - type: image
         name: image
         label: Image (Single Post)
@@ -312,7 +312,7 @@ models:
       - type: string
         name: excerpt
         label: Excerpt
-        description: The excerpt of the post displayed in the latest feed.
+        description: The excerpt of the post displayed in the blog feed.
       - type: model
         name: seo
         models:
