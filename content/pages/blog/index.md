@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:title'
       value: Latest
     - name: 'twitter:description'
-      value: This is the blog page
+      value: This is the latest news page
     - name: 'twitter:image'
       value: images/12.jpg
       relativeUrl: true
