@@ -249,7 +249,7 @@ models:
     label: Page
     layout: page
     exclude:
-      - blog/**
+      - latest/**
       - portfolio/**
     fields:
       - type: string
