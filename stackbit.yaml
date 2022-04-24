@@ -275,7 +275,7 @@ models:
           - stackbit_page_meta
   post:
     type: page
-    urlPath: '/blog/{slug}'
+    urlPath: '/latest/{slug}'
     label: Post
     layout: post
     folder: blog
