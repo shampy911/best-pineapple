@@ -3,7 +3,7 @@ date: '2022-04-01'
 thumb_image: /images/Study_Abroad.jpg
 thumb_image_alt: 'study,abroad,visa,immigration'
 image: /images/Study_Abroad.jpg
-image_alt: 'White, black, and red shoe sole'
+image_alt: 'study,abroad,visa,immigration'
 seo:
   title: Project Title 1
   description: This is the project 1 description
