@@ -1,7 +1,7 @@
 ---
 date: '2022-04-01'
 thumb_image: /images/Study_Abroad.jpg
-thumb_image_alt: 'White, black, and red shoe sole'
+thumb_image_alt: 'study,abroad,visa,immigration'
 image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
 seo:
