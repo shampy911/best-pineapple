@@ -23,10 +23,10 @@ sections:
     is_numbered: true
     grid_items:
       - title: Study Abroad
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          “Study abroad” is a chance to pursue your college studies in a foreign
+          country. Students enroll in an international program for few year and
+          earn their entire degrees in a different country.
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
