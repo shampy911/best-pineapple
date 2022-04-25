@@ -12,7 +12,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: 'study,abroad'
+      value: study abroad
       keyName: property
     - name: 'og:description'
       value: This is the project 1 description
