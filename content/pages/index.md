@@ -29,7 +29,7 @@ sections:
           earn their entire degrees in a different country.
       - title: IELTS/ PTE Training
         content: "Learn\_*IELTS/PTE*\_online at your own pace. Start today and improve your skills. Join hundreds of learners from around the world already learning . 45-day guarantee  Real-world experts. Lifetime access.\n"
-      - content: "Go on a student exchange program abroad and open yourself to a world of opportunity. Our foreign exchange programs range from months-long exchanges to a full college program, including your diploma, at one of our accredited schools. Becoming a\_foreign exchange student\_is a big decision. Get in touch so we can discuss your options.\n"
+      - content: "Go on a student exchange program abroad and open yourself to a world of opportunity. Becoming a\_foreign exchange student\_is a big decision. Get in touch so we can discuss your options.\n"
         title: International Exchange Program
       - title: Visa Service
         content: "Need information on\_visas\_or permits? We're here to help. Welcome to Abroad Heights.\_Visas, eVisas & Permits. Passport\_Services, Government\_Services.\n"
