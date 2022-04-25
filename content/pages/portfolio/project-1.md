@@ -6,7 +6,7 @@ image: /images/Study_Abroad.jpg
 image_alt: 'study,abroad,visa,immigration'
 seo:
   title: Study Abroad
-  description: This is the project 1 description
+  description: Make your future bright
   extra:
     - name: 'og:type'
       value: website
