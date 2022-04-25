@@ -5,7 +5,7 @@ thumb_image_alt: 'study,abroad,visa,immigration'
 image: /images/Study_Abroad.jpg
 image_alt: 'study,abroad,visa,immigration'
 seo:
-  title: Project Title 1
+  title: Study Abroad
   description: This is the project 1 description
   extra:
     - name: 'og:type'
