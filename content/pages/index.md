@@ -29,8 +29,7 @@ sections:
           earn their entire degrees in a different country.
       - title: IELTS/ PTE Training
         content: "Learn\_*IELTS/PTE*\_online at your own pace. Start today and improve your skills. Join hundreds of learners from around the world already learning . 45-day guarantee  Real-world experts. Lifetime access.\n"
-      - title: Service Title
-        content: >-
+      - content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin.
