@@ -35,9 +35,7 @@ sections:
           dui sollicitudin.
         title: International Exchange Program
       - title: Visa Service
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: "Need information on\_visas\_or permits? We're here to help... Welcome to Abroad Heights.\_Visas, eVisas & Permits. Passport\_Services. Government\_Services.\n"
   - section_id: blog-projects
     type: section_portfolio
     layout_style: mosaic
