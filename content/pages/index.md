@@ -27,7 +27,7 @@ sections:
           “Study abroad” is a chance to pursue your college studies in a foreign
           country. Students enroll in an international program for few year and
           earn their entire degrees in a different country.
-      - title: Service Title
+      - title: IELTS/ PTE Training
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
