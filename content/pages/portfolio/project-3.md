@@ -21,7 +21,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
-      value: summary_large_image
+      value: Migration Counselling
     - name: 'twitter:title'
       value: Project Title 3
     - name: 'twitter:description'
