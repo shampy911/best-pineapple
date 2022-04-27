@@ -2,7 +2,7 @@
 date: '2022-04-01'
 thumb_image: /images/Study_Abroad-ff65247f.jpg
 thumb_image_alt: 'study,abroad,visa,immigration'
-image: /images/Study_Abroad.jpg
+image: /images/Study_Abroad-ff65247f.jpg
 image_alt: 'study,abroad,visa,immigration'
 seo:
   title: Study Abroad
