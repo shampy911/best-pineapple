@@ -31,7 +31,6 @@ seo:
   robots: []
 layout: project
 title: Study Abroad
-thumb_image: /images/Study_Abroad-fbe09f41.jpg
 ---
 > ***The world is a book and those who do not travel read only one page***
 >
