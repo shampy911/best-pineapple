@@ -35,7 +35,7 @@ layout: project
 title: Study Abroad
 ---
 > ***“The world is a book and those who do not travel read only one page”***
-
+>
 > ***-Saint Augustine***
 
 With an experience of inserting students in numerous institutions, we understand the overseas education and help students in acquiring the same. Observing the prerequisites of students, we bring our developments in a manner that every particular chore beginning from admission to visa to making travel arrangements is smooth, hassle free and swift.
