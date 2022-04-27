@@ -10,7 +10,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: International Student Exchange Program
+      value: International Exchange Program
       keyName: property
     - name: 'og:description'
       value: This is the project 2 description
