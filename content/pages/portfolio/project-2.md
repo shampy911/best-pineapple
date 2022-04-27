@@ -16,7 +16,7 @@ seo:
       value: This is the project 2 description
       keyName: property
     - name: 'og:image'
-      value: International_Exchange_Program
+      value: International_student_exchange_program
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
