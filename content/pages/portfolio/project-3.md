@@ -2,7 +2,7 @@
 date: '2019-04-08'
 thumb_image: /images/Migration_Counselling.jpg
 thumb_image_alt: Migration Counselling
-image: images/3.jpg
+image: /images/Migration_Counselling.jpg
 image_alt: A yellow retro telephone on a yellow background
 seo:
   title: Project Title 3
