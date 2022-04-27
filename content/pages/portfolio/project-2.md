@@ -30,6 +30,7 @@ seo:
       relativeUrl: true
 layout: project
 title: International Exchange Program
+thumb_image_alt: International Student Exchange Program
 ---
 > **Exchange Program is not a vacation or trip, It’s a second life….**
 
