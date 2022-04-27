@@ -3,7 +3,7 @@ date: '2019-04-30'
 thumb_image: /images/International_student_exchange_program.jpg
 image: /images/International_student_exchange_program.jpg
 seo:
-  title: Project Title 2
+  title: International Student Exchange Program
   description: This is the project 2 description
   extra:
     - name: 'og:type'
