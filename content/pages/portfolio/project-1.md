@@ -18,7 +18,7 @@ seo:
       value: 'study,abroad,visa,immigration'
       keyName: property
     - name: 'og:image'
-      value: Study_adroad.jpg
+      value: Study_Adroad.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
