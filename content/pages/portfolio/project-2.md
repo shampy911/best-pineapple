@@ -35,7 +35,7 @@ image_alt: International Student Exchange Program
 ---
 > **Exchange Program is not a vacation or trip, It’s a second life….**
 
-We at Vision Launcher provide international exchange programs, international study programs and Global immersion program for students and professionals. Our expert team provides best advice of the program that is lucrative in terms of career growth to people from all sectors such as Architecture, Designing, Engineering, Medical, Management, Hospitality, Tourism and Education sector.
+We at Abroad Heights provide international exchange programs, international study programs and Global immersion program for students and professionals. Our expert team provides best advice of the program that is lucrative in terms of career growth to people from all sectors such as Architecture, Designing, Engineering, Medical, Management, Hospitality, Tourism and Education sector.
 
 **Vision launcher offers following programs:**
 
