@@ -1,6 +1,6 @@
 ---
 date: '2019-04-30'
-thumb_image: images/2_thumb.jpg
+thumb_image: /images/International_student_exchange_program.jpg
 image: images/2.jpg
 seo:
   title: Project Title 2
