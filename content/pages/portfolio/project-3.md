@@ -6,7 +6,6 @@ image: /images/Migration_Counselling.jpg
 image_alt: Migration Counselling
 seo:
   title: Migration Counselling
-  description: This is the project 3 description
   extra:
     - name: 'og:type'
       value: website
