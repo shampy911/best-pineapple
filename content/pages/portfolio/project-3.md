@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:title'
       value: Project Title 3
     - name: 'twitter:description'
-      value: This is the project 3 description
+      value: This is the Migration Counselling page
     - name: 'twitter:image'
       value: images/3.jpg
       relativeUrl: true
