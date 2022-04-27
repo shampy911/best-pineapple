@@ -32,6 +32,7 @@ seo:
       value: images/2.jpg
       relativeUrl: true
 layout: project
+title: International Exchange Program
 ---
 > **Exchange Program is not a vacation or trip, It’s a second life….**
 
