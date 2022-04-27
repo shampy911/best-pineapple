@@ -41,7 +41,7 @@ We at Vision Launcher provide international exchange programs, international stu
 
 *   **GBCEP(Global business culture entrepreneurship Program)| USA**
 
-*   ** VTGIP(Vision towards Global Immersion) | Dubai**
+*   **VTGIP(Vision towards Global Immersion) | Dubai**
 
 *   **VTGIP(Vision towards Global Immersion) | Singapore**
 
