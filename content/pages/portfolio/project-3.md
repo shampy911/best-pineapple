@@ -14,7 +14,7 @@ seo:
       value: Migration Counselling
       keyName: property
     - name: 'og:description'
-      value: This is the project 3 description
+      value: This is the Migration Counselling page
       keyName: property
     - name: 'og:image'
       value: images/3.jpg
