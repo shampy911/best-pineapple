@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: International_student_exchange_program
+      value: International_exchange_program
     - name: 'twitter:description'
       value: International_student_exchange_program
     - name: 'twitter:image'
