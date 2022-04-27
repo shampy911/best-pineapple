@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:description'
       value: This is the project 1 description
     - name: 'twitter:image'
-      value: Study_Abroad
+      value: Study_Abroad.jpg
       relativeUrl: true
   robots: []
 layout: project
