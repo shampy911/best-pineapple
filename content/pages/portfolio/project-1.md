@@ -30,10 +30,6 @@ seo:
     - name: 'twitter:image'
       value: Study_Abroad.jpg
       relativeUrl: true
-    - name: ''
-      value: ''
-      keyName: name
-      relativeUrl: false
   robots: []
 layout: project
 title: Study Abroad
