@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:image'
       value: images/3.jpg
       relativeUrl: true
-  description: Migration Counselling
+  description: 'Migration,Counselling'
 layout: project
 title: Migration Counselling
 ---
