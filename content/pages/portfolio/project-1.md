@@ -34,7 +34,7 @@ seo:
 layout: project
 title: Study Abroad
 ---
-> ***“The world is a book and those who do not travel read only one page”***
+> ***The world is a book and those who do not travel read only one page***
 >
 > ***-Saint Augustine***
 
