@@ -15,7 +15,7 @@ seo:
     - name: 'og:description'
       keyName: property
     - name: 'og:image'
-      value: images/International_student_exchange_program
+      value: images/International_student_exchange_program.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
