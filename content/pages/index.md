@@ -67,7 +67,7 @@ sections:
           file from scratch and informed me of all developments with
           transparency and speed. Finally, I got study permit for my dream
           destination CANADA.Abroad Heights has played a significant role in my
-          achivements and i will be forever indebted to them for showing me the
+          achievements and i will be forever indebted to them for showing me the
           trust and confidence i needed in my most important phase.THANKS A TON
           TEAM!!!
         author: Kapil Chaudhary
