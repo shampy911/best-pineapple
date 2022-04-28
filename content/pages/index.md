@@ -86,7 +86,7 @@ sections:
     title: News
     subtitle: 'Latest News '
     posts_number: 3
-    col_number: three
+    col_number: two
     actions:
       - label: View blog
         url: blog
