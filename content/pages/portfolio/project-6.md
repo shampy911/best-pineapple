@@ -2,7 +2,7 @@
 title: Test Preparation
 date: '2018-12-18'
 thumb_image: /images/Test_Preparation.jpg
-thumb_image_alt: A handheld game console on a yellow background
+thumb_image_alt: ILETS/PTE Preparation
 image: images/6.jpg
 image_alt: A handheld game console on a yellow background
 seo:
