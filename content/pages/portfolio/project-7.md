@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:description'
       value: Visa_Assistance
     - name: 'twitter:image'
-      value: images/7.jpg
+      value: images/Visa_Assistance.jpg
       relativeUrl: true
 layout: project
 ---
