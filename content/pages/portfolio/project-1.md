@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: Study_Abroad
     - name: 'twitter:description'
-      value: This is the project 1 description
+      value: Migration Counselling
     - name: 'twitter:image'
       value: Study_Abroad.jpg
       relativeUrl: true
