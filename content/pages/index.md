@@ -76,6 +76,7 @@ sections:
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
+        author: Gagandeep Singh Bhatti
     subtitle: What Our Students Say
   - section_id: blog-posts
     type: section_posts
