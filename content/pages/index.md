@@ -110,6 +110,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
+      value: Abroad Heights
     - name: 'twitter:description'
       value: The preview of the Exto theme
     - name: 'twitter:image'
