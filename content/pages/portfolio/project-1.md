@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: Study_Abroad
     - name: 'twitter:description'
-      value: Migration Counselling
+      value: Study Abroad
     - name: 'twitter:image'
       value: Study_Abroad.jpg
       relativeUrl: true
