@@ -5,7 +5,7 @@ hide_title: false
 col_number: two
 seo:
   title: News
-  description: This is the News page
+  description: This is the news page
   extra:
     - name: 'og:type'
       value: website
