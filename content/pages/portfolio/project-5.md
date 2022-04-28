@@ -2,7 +2,7 @@
 title: Campus Training
 date: '2019-01-05'
 thumb_image: images/5_thumb.jpg
-thumb_image_alt: A white gamepad on a green background
+thumb_image_alt: A Campus Training scenerio
 image: images/5.jpg
 image_alt: A white gamepad on a green background
 seo:
