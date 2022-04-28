@@ -114,7 +114,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Exto theme
     - name: 'twitter:image'
-      value: images/exto_preview.png
+      value: images/Abroad Heights LOGO.jpg
       relativeUrl: true
   description: Best immigration consultants in India New Delhi
   robots:
