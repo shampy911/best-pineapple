@@ -115,7 +115,7 @@ seo:
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
-  description: Best immigration consultants in India ew Delhi
+  description: Best immigration consultants in India New Delhi
   robots:
     - all
 layout: advanced
