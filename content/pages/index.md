@@ -57,7 +57,7 @@ sections:
           kind and accommodating.Special thanks to Sir Rajnish and Sonal Mam.
           All the best to Abroad Heights.
       - avatar: images/aubrey_hoover.jpg
-        avatar_alt: Aubrey Hoover's photo
+        avatar_alt: Kapil Chaudhary's photo
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
