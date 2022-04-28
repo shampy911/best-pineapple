@@ -76,7 +76,7 @@ sections:
         content: >-
           I had a very encouraging, supportive and helpful experience with you
           and your organisation.Right from making application up till Visa
-          approval, you and your organization was very helpful and easily
+          approval, you and your organisation was very helpful and easily
           approachable. I have even recommended you to my friends and hope that
           you continue this commendable services of yours.
         author: Gagandeep Singh Bhatti
