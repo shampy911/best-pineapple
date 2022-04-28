@@ -16,7 +16,7 @@ seo:
       value: Project Title 6
       keyName: property
     - name: 'og:description'
-      value: This is the project 6 description
+      value: This isILETS/PTE Preparation
       keyName: property
     - name: 'og:image'
       value: images/6.jpg
