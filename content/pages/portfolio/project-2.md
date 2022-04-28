@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:description'
       value: International_student_exchange_program
     - name: 'twitter:image'
-      value: images/2.jpg
+      value: images/International_student_exchange_program.jpg
       relativeUrl: true
 layout: project
 title: International Exchange Program
