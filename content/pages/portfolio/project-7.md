@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:title'
       value: Visa Assistance
     - name: 'twitter:description'
-      value: This is the project 7 description
+      value: Visa_Assistance
     - name: 'twitter:image'
       value: images/7.jpg
       relativeUrl: true
