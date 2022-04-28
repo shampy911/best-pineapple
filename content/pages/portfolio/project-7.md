@@ -1,6 +1,5 @@
 ---
 title: Visa Assistance
-subtitle: Optional Project Subtitle
 date: '2018-01-15'
 thumb_image: images/7_thumb.jpg
 thumb_image_alt: A black headphones on a yeallow background
