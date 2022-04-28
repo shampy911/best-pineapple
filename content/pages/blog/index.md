@@ -4,7 +4,7 @@ subtitle: 'News, tips and highlights'
 hide_title: false
 col_number: two
 seo:
-  title: blog
+  title: News
   description: This is the blog page
   extra:
     - name: 'og:type'
