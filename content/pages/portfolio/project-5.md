@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 5
+      value: Campus Training
     - name: 'twitter:description'
       value: This is Campus Training
     - name: 'twitter:image'
