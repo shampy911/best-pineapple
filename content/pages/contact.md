@@ -18,7 +18,7 @@ sections:
       - type: form_field
         input_type: tel
         name: contact number
-        default_value: Contact number
+        default_value: contact number
         options: []
         is_required: false
         label: contact-number
