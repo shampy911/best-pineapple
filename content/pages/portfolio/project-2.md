@@ -13,7 +13,6 @@ seo:
       value: International Exchange Program
       keyName: property
     - name: 'og:description'
-      value: This is the project 2 description
       keyName: property
     - name: 'og:image'
       value: International_student_exchange_program
