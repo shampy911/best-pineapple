@@ -66,7 +66,7 @@ sections:
           They helped me to apply and choose college in Canada, prepared my Visa
           file from scratch and informed me of all developments with
           transparency and speed. Finally, I got study permit for my dream
-          destination CANADA.Abroad Heights has played a significant role in my
+          destination CANADA. Abroad Heights has played a significant role in my
           achievements and i will be forever indebted to them for showing me the
           trust and confidence i needed in my most important phase.THANKS A TON
           TEAM!!!
