@@ -16,7 +16,7 @@ seo:
       value: Visa Assistance
       keyName: property
     - name: 'og:description'
-      value: This is the project 7 description
+      value: Visa Assistance
       keyName: property
     - name: 'og:image'
       value: images/7.jpg
