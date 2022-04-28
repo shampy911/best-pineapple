@@ -6,8 +6,7 @@ thumb_image_alt: Visa Assistance
 image: /images/Visa_Assistance.jpg
 image_alt: Visa Assistance
 seo:
-  title: |
-    Visa Assistance
+  title: Visa Assistance
   description: This is the project 7 description
   extra:
     - name: 'og:type'
