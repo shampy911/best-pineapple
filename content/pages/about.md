@@ -1,7 +1,7 @@
 ---
 title: About Us
 image: images/about.jpg
-image_alt: A man taking a picture
+image_alt: Team Picture
 seo:
   title: About Us
   description: This is the about us page
