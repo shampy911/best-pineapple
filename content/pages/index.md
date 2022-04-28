@@ -74,8 +74,11 @@ sections:
       - avatar: images/deegan_wallace.jpg
         avatar_alt: Gagandeep Singh Bhatti's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
+          I had a very encouraging, supportive and helpful experince with you
+          and your organisation.Right from making application up till Visa
+          approval, you and your organization was very helpful and easily
+          approachable. I have even recommended you to my friends and hope that
+          you continue this commendable services of yours.
         author: Gagandeep Singh Bhatti
     subtitle: What Our Students Say
   - section_id: blog-posts
