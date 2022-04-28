@@ -7,7 +7,7 @@ image: images/5.jpg
 image_alt: A Campus Training scenario
 seo:
   title: Campus Training
-  description: This is the project 5 description
+  description: This is theCampus Training
   extra:
     - name: 'og:type'
       value: website
