@@ -1,6 +1,6 @@
 ---
 title: Corporate Training
-date: '2019-02-26'
+date: '2021-02-26'
 thumb_image: /images/Corporate_Training.jpg
 thumb_image_alt: A Corporate Training Scenario
 image: /images/Corporate_Training.jpg
