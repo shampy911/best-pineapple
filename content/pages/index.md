@@ -59,8 +59,16 @@ sections:
       - avatar: /images/kapilchaudhary.jpg
         avatar_alt: Kapil Chaudhary's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Abroa heights is an institution that actually turns dreams into
+          realities. I went there for my IELTS which I passed with fyling colors
+          that too within a month only.The trainers are superb, knowledgeable,
+          undestanding and pay utmost importance to everybody. They helped me to
+          apply and choose college in Canada, prepared my Visa file from scratch
+          and informed me of all devlopments with transparency and speed.
+          Finally, I got study permit for my dream destination CANADA.Abroad
+          Heights has played a significant role in my achivements and i will be
+          forever indebted to them for showing me the trust and confidence i
+          needed in my most important phase.THANKS A TON TEAM!!!
         author: Kapil Chaudhary
       - author: Deegan Wallace
         avatar: images/deegan_wallace.jpg
