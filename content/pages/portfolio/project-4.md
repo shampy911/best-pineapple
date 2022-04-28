@@ -6,7 +6,7 @@ thumb_image_alt: A table Corporate Training Scenario
 image: /images/Corporate_Training.jpg
 image_alt: A table Corporate Training Scenario background
 seo:
-  title: A table Corporate Training Scenario
+  title: Corporate Training Scenario
   description: This is the project 4 description
   extra:
     - name: 'og:type'
