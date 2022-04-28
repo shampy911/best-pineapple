@@ -15,6 +15,13 @@ sections:
         label: Name
         default_value: Your name
         is_required: true
+      - type: form_field
+        input_type: number
+        name: Contact Number
+        default_value: Contact Number
+        options: []
+        is_required: false
+        label: Contact-Number
       - input_type: email
         name: email
         label: Email
@@ -38,13 +45,6 @@ sections:
         label: >-
           I understand that this form is storing my submitted information so I
           can be contacted.
-      - type: form_field
-        input_type: number
-        name: Contact Number
-        default_value: Contact Number
-        options: []
-        is_required: false
-        label: Contact-Number
     submit_label: Send Message
 seo:
   title: Contact
