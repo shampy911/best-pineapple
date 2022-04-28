@@ -16,7 +16,7 @@ seo:
       value: Campus Training
       keyName: property
     - name: 'og:description'
-      value: This is the project 5 description
+      value: This is Campus Training
       keyName: property
     - name: 'og:image'
       value: images/5.jpg
