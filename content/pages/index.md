@@ -45,7 +45,7 @@ sections:
     title: Testimonials
     col_number: three
     testimonials:
-      - author: Sean Salazar
+      - author: Deepanshu Rana
         avatar: images/sean_salazar.jpg
         avatar_alt: Sean Salazar's photo
         content: >-
