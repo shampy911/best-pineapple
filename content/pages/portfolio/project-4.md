@@ -4,7 +4,7 @@ date: '2019-02-26'
 thumb_image: /images/Corporate_Training.jpg
 thumb_image_alt: A Corporate Training Scenario
 image: /images/Corporate_Training.jpg
-image_alt: A table Corporate Training Scenario background
+image_alt: A Corporate Training Scenario background
 seo:
   title: Corporate Training
   description: A Corporate Training Scenario
