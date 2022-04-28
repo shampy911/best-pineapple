@@ -4,7 +4,7 @@ date: '2018-12-18'
 thumb_image: /images/Test_Preparation.jpg
 thumb_image_alt: ILETS/PTE Preparation
 image: /images/Test_Preparation.jpg
-image_alt: A handheld game console on a yellow background
+image_alt: ILETS/PTE Preparation
 seo:
   title: Project Title 6
   description: This is the project 6 description
