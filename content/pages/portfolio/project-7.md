@@ -19,7 +19,7 @@ seo:
       value: Visa Assistance
       keyName: property
     - name: 'og:image'
-      value: images/7.jpg
+      value: images/
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
