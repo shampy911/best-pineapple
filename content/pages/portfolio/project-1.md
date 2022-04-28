@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:description'
       value: Study Abroad
     - name: 'twitter:image'
-      value: Study_Abroad.jpg
+      value: images/Study_Adroad.jpg
       relativeUrl: true
   robots: []
 layout: project
