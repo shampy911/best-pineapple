@@ -84,7 +84,7 @@ sections:
   - section_id: blog-posts
     type: section_posts
     title: News
-    subtitle: An optional subtitle of the section
+    subtitle: 'Latest '
     posts_number: 3
     col_number: three
     actions:
