@@ -40,7 +40,7 @@ sections:
           can be contacted.
       - type: form_field
         input_type: text
-        name: lorem-ipsum
+        name: Contact Number
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
