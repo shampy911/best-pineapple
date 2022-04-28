@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:description'
       value: This is the project 4 description
     - name: 'twitter:image'
-      value: images/Corporate Training
+      value: images/Corporate_Training
       relativeUrl: true
 layout: project
 ---
