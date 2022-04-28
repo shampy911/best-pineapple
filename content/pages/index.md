@@ -42,7 +42,7 @@ sections:
     view_all_url: portfolio
   - section_id: testimonials
     type: section_testimonials
-    title: Testimonials
+    title: What Our Students Say
     col_number: three
     testimonials:
       - author: Sean Salazar
