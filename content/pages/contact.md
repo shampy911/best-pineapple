@@ -38,6 +38,13 @@ sections:
         label: >-
           I understand that this form is storing my submitted information so I
           can be contacted.
+      - type: form_field
+        input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
     submit_label: Send Message
 seo:
   title: Contact
