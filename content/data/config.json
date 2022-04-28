@@ -37,7 +37,8 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
+        ],
+        "logo_img": "/images/Abroad Heights LOGO.jpg"
     },
     "footer": {
         "content": "&copy; All rights reserved. This website was created by Abroad Heights <a href=\"https://www.facebook.com\" target=\"_blank\" rel=\"noopener\">IT Team</a>. Contact devloper <a href=\"https://twitter.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
