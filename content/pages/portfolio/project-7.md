@@ -4,7 +4,7 @@ date: '2022-01-15'
 thumb_image: /images/Visa_Assistance.jpg
 thumb_image_alt: Visa Assistance
 image: images/7.jpg
-image_alt: A black headphones on a yeallow background
+image_alt: Visa Assistance
 seo:
   title: Project Title 7
   description: This is the project 7 description
