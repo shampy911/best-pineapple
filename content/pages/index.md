@@ -59,7 +59,7 @@ sections:
       - avatar: /images/kapilchaudhary.jpg
         avatar_alt: Kapil Chaudhary's photo
         content: >-
-          Abroa heights is an institution that actually turns dreams into
+          Abroad heights is an institution that actually turns dreams into
           realities. I went there for my IELTS which I passed with fyling colors
           that too within a month only.The trainers are superb, knowledgeable,
           undestanding and pay utmost importance to everybody. They helped me to
