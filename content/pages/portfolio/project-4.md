@@ -3,7 +3,7 @@ title: Corporate Training
 date: '2019-02-26'
 thumb_image: /images/Corporate_Training.jpg
 thumb_image_alt: A table Corporate Training Scenario
-image: images/4.jpg
+image: /images/Corporate_Training.jpg
 image_alt: A table tennis racket on a pink background
 seo:
   title: Project Title 4
