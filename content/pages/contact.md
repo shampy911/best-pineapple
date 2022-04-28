@@ -41,7 +41,7 @@ sections:
       - type: form_field
         input_type: text
         name: Contact Number
-        default_value: lorem-ipsum
+        default_value: Contact Number
         options: []
         is_required: false
         label: Contact-Number
