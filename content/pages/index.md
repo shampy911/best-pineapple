@@ -48,7 +48,7 @@ sections:
       - author: Deepanshu Rana
         avatar: images/sean_salazar.jpg
         avatar_alt: Deepanshu Rana's photo
-        content: From Masters to PR
+        content: From Masters to Canada PR
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
