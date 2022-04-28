@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:description'
       value: This is Campus Training
     - name: 'twitter:image'
-      value: images/Campus Training
+      value: images/Campus_Training
       relativeUrl: true
 layout: project
 ---
