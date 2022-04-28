@@ -39,7 +39,7 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
       - type: form_field
-        input_type: text
+        input_type: number
         name: Contact Number
         default_value: Contact Number
         options: []
