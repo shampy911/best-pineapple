@@ -1,6 +1,5 @@
 ---
 title: About Us
-subtitle: 'Our '
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
