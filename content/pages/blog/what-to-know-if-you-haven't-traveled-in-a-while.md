@@ -8,7 +8,7 @@ seo:
   title: What to Know if You Haven’t Travelled in a While
   robots: []
   extra: []
-  description: Going abroad during Covid is a whole new world—so be prepared
+  description: Going abroad during Covid is a whole new world so be prepared
 subtitle: Travel guide
 image_alt: travelling girl
 thumb_image: /images/covid_boyandgirl.jpg
