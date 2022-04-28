@@ -41,7 +41,7 @@ With over a decade of experience, in providing a client-focused approach to our 
 
 We offer a wide range of training sessions for the employees as well as the management with a subtle difference to suit all companies. In addition, to which the training programs are custom designed to suit the requirements and goals of every individual firm.
 
-*   [Communication skills](https://alliancerecruitmentagency.com/telecom-recruitment-consultants/)
+*   [Communication skills](www.visionlauncher.com)
 
 *   Leadership skills
 
@@ -53,9 +53,9 @@ We offer a wide range of training sessions for the employees as well as the mana
 
 *   Stress Management
 
-*   [Sales](https://alliancerecruitmentagency.com/sales-marketing-recruitment-consultants/)
+*   [Sales](www.visionlauncher.com)
 
-*   [Retail](https://alliancerecruitmentagency.com/retail-recruitment-agency/)
+*   [Retail](www.visionlauncher.com)
 
 *   Team Management
 
