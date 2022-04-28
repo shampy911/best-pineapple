@@ -7,7 +7,7 @@ image: /images/Corporate_Training.jpg
 image_alt: A table Corporate Training Scenario background
 seo:
   title: Corporate Training
-  description: A table Corporate Training Scenario
+  description: A Corporate Training Scenario
   extra:
     - name: 'og:type'
       value: website
