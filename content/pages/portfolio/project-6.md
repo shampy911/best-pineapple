@@ -6,7 +6,7 @@ thumb_image_alt: ILETS/PTE Preparation
 image: /images/Test_Preparation.jpg
 image_alt: ILETS/PTE Test Preparation
 seo:
-  title: ILETS/PTE Preparation
+  title: Test Preparation
   description: This is the project 6 description
   extra:
     - name: 'og:type'
