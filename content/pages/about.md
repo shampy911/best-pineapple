@@ -1,6 +1,6 @@
 ---
 title: About Us
-image: images/about.jpg
+image: /images/Core_Team.png
 image_alt: Team Picture
 seo:
   title: About Us
