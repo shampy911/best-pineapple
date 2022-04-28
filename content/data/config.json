@@ -24,7 +24,8 @@
             },
             {
                 "url": "/style-guide/",
-                "style": "link"
+                "style": "link",
+                "label": "Guide"
             },
             {
                 "label": "About",
