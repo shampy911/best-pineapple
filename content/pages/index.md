@@ -71,8 +71,7 @@ sections:
           trust and confidence i needed in my most important phase.THANKS A TON
           TEAM!!!
         author: Kapil Chaudhary
-      - author: Deegan Wallace
-        avatar: images/deegan_wallace.jpg
+      - avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
