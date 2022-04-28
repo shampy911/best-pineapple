@@ -7,7 +7,7 @@ image: /images/Visa_Assistance.jpg
 image_alt: Visa Assistance
 seo:
   title: Visa Assistance
-  description: This is Visa Assistance
+  description: Visa Assistance
   extra:
     - name: 'og:type'
       value: website
