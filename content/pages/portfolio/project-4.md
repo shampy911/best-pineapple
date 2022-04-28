@@ -19,7 +19,7 @@ seo:
       value: A Corporate Training Scenario
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: A table Corporate Training Scenario
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
