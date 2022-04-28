@@ -12,7 +12,7 @@ seo:
       value: Services
       keyName: property
     - name: 'og:description'
-      value: This is the portfolio page
+      value: This is the Services page
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
