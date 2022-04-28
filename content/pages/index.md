@@ -56,8 +56,7 @@ sections:
           that fast. I thank god that he led me to your team.The staff was all
           kind and accommodating.Special thanks to Sir Rajnish and Sonal Mam.
           All the best to Abroad Heights.
-      - author: Aubrey Hoover
-        avatar: images/aubrey_hoover.jpg
+      - avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
