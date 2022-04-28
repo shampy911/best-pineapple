@@ -62,7 +62,7 @@ sections:
           Abroad heights is an institution that actually turns dreams into
           realities. I went there for my IELTS which I passed with flying
           colours that too within a month only.The trainers are superb,
-          knowledgeable, undestanding and pay utmost importance to everybody.
+          knowledgeable, understanding and pay utmost importance to everybody.
           They helped me to apply and choose college in Canada, prepared my Visa
           file from scratch and informed me of all devlopments with transparency
           and speed. Finally, I got study permit for my dream destination
