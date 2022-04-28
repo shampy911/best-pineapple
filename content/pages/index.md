@@ -71,7 +71,7 @@ sections:
           trust and confidence i needed in my most important phase.THANKS A TON
           TEAM!!!
         author: Kapil Chaudhary
-      - avatar: images/deegan_wallace.jpg
+      - avatar: /images/GagandeepSinghBhatti.png
         avatar_alt: Gagandeep Singh Bhatti's photo
         content: >-
           I had a very encouraging, supportive and helpful experience with you
