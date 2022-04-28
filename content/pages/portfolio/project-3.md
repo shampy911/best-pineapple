@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:description'
       value: This is the Migration Counselling page
     - name: 'twitter:image'
-      value: images/3.jpg
+      value: images/Migration_Counselling.jpg
       relativeUrl: true
   description: 'Migration,Counselling'
 layout: project
