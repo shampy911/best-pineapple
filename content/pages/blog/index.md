@@ -2,7 +2,7 @@
 title: News
 subtitle: 'News, tips and highlights'
 hide_title: false
-col_number: three
+col_number: two
 seo:
   title: blog
   description: This is the blog page
