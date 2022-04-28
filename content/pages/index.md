@@ -60,7 +60,7 @@ sections:
         avatar_alt: Kapil Chaudhary's photo
         content: >-
           Abroad heights is an institution that actually turns dreams into
-          realities. I went there for my IELTS which I passed with fyling colors
+          realities. I went there for my IELTS which I passed with flying colors
           that too within a month only.The trainers are superb, knowledgeable,
           undestanding and pay utmost importance to everybody. They helped me to
           apply and choose college in Canada, prepared my Visa file from scratch
