@@ -46,7 +46,7 @@ sections:
     col_number: three
     testimonials:
       - author: Deepanshu Rana
-        avatar: images/sean_salazar.jpg
+        avatar: /images/deepanshurana.jpg
         avatar_alt: Deepanshu Rana's photo
         content: >-
           From Masters to Canada PR - I would like to say thank you for helping
