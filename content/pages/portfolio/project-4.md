@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: A table Corporate Training
+      value: Corporate Training
       keyName: property
     - name: 'og:description'
       value: This is the project 4 description
