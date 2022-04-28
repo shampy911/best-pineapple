@@ -23,7 +23,7 @@ seo:
     - name: 'twitter:title'
       value: Services
     - name: 'twitter:description'
-      value: This is the portfolio page
+      value: This is the Services page
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
