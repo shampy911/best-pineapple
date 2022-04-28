@@ -74,7 +74,7 @@ sections:
       - avatar: images/deegan_wallace.jpg
         avatar_alt: Gagandeep Singh Bhatti's photo
         content: >-
-          I had a very encouraging, supportive and helpful experince with you
+          I had a very encouraging, supportive and helpful experience with you
           and your organisation.Right from making application up till Visa
           approval, you and your organization was very helpful and easily
           approachable. I have even recommended you to my friends and hope that
