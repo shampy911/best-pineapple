@@ -19,7 +19,7 @@ seo:
       value: This is Campus Training
       keyName: property
     - name: 'og:image'
-      value: images/Campus Training
+      value: images/Campus_Training
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
