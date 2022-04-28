@@ -41,11 +41,11 @@ The overall mission of us is to provide customized solution and consultancy to o
 
 > Our Values
 
-*   ** Customer centricity** – we will provide excellent experience to our internal and external customers in every interaction with them.
+*    **Customer centricity** – we will provide excellent experience to our internal and external customers in every interaction with them.
 
-*   ** Accountability** – we will hold each other accountable for best business and financial results.
+*    **Accountability** – we will hold each other accountable for best business and financial results.
 
-*   ** Reciprocity**– we will provide positive reciprocity in all dealings with the customers.
+*    **Reciprocity **– we will provide positive reciprocity in all dealings with the customers.
 
-*   ** Entrepreneurship** – we will relentlessly pursue new opportunities – on day to day basis – to add value to our business. We will work smarter and achieve more with fewer resources.
+*    **Entrepreneurship** – we will relentlessly pursue new opportunities – on day to day basis – to add value to our business. We will work smarter and achieve more with fewer resources.
 
