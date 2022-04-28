@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:description'
       value: This is the Services page
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: images/Study_Abroad.jpg
       relativeUrl: true
 layout: portfolio
 ---
