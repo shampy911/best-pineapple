@@ -1,7 +1,6 @@
 ---
 layout: post
 title: What to Know if You Haven’t Travelled in a While
-subtitle: lorem-ipsum
 date: '2022-04-28'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
