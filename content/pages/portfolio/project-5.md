@@ -6,7 +6,7 @@ thumb_image_alt: A Campus Training scenario
 image: images/5.jpg
 image_alt: A Campus Training scenario
 seo:
-  title: Project Title 5
+  title: Campus Training
   description: This is the project 5 description
   extra:
     - name: 'og:type'
