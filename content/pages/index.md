@@ -81,7 +81,7 @@ sections:
           you continue this commendable services of yours.
         author: Gagandeep Singh Bhatti
     subtitle: What Our Students Say
-  - section_id: blog-posts
+  - section_id: News-posts
     type: section_posts
     title: News
     subtitle: An optional subtitle of the section
