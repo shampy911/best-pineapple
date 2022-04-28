@@ -16,7 +16,7 @@ seo:
       value: Corporate Training
       keyName: property
     - name: 'og:description'
-      value: A table Corporate Training Scenario
+      value: A Corporate Training Scenario
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
