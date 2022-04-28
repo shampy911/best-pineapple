@@ -6,7 +6,6 @@ thumb_image_alt: travelling guide
 excerpt: travelling guide
 seo:
   title: What to Know if You Haven’t Travelled in a While
-  description: What to Know if You Haven’t Travelled in a While
   robots: []
   extra: []
 subtitle: Travel guide
