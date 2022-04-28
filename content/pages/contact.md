@@ -27,7 +27,7 @@ sections:
         default_value: Please select
         options:
           - Get a call back
-          - Sponsorship
+          - Visa Application
           - Other
       - input_type: textarea
         name: message
