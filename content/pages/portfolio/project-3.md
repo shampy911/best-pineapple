@@ -17,7 +17,7 @@ seo:
       value: This is the Migration Counselling page
       keyName: property
     - name: 'og:image'
-      value: images/
+      value: images/Migration_Counselling.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
