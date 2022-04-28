@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Portfolio
+      value: Services
     - name: 'twitter:description'
       value: This is the portfolio page
     - name: 'twitter:image'
