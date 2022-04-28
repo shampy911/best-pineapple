@@ -3,7 +3,7 @@ title: Services
 layout_style: mosaic
 seo:
   title: Services
-  description: This is the portfolio page
+  description: This is the Services page
   extra:
     - name: 'og:type'
       value: website
