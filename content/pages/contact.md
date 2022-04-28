@@ -18,7 +18,7 @@ sections:
       - type: form_field
         input_type: tel
         name: Phone Number
-        default_value: phone number
+        default_value: Phone Number
         options: []
         is_required: false
         label: Phone Number
