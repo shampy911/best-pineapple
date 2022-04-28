@@ -12,6 +12,7 @@ seo:
 subtitle: Travel guide
 image_alt: travelling girl
 thumb_image: /images/covid_boyandgirl.jpg
+image: /images/covid_boyandgirl.jpg
 ---
 As you think about packing your bags for your next adventure, and possibly first in the age of Covid, you might be wondering what you need to know if you haven’t traveled in a while. Or, maybe you’re simply curious about how to prepare for international travel when there are so many different requirements from place to place, not only depending on where you’re going, but also where you’re departing from. Nowadays, it can all have an impact on travel requirements.
 
