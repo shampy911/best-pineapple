@@ -53,7 +53,7 @@ sections:
           me in achieving my dreams.I highly recommend this team.You guys turned
           my dreams into reality.I know this is just the beginning of a long
           journey that i will take.I never imagined that the decision will be
-          that fast.I thank god that he led me to your team.The staff was all
+          that fast. I thank god that he led me to your team.The staff was all
           kind and accommodating.Special thanks to Sir Rajnish and Sonal Mam.
           All the best to Abroad Heights.
       - author: Aubrey Hoover
