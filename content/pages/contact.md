@@ -28,7 +28,7 @@ sections:
         options:
           - Get a call back
           - Visa Application
-          - Student Visa
+          - Others
           - lorem-ipsum
       - input_type: textarea
         name: message
