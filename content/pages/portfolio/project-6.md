@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:description'
       value: This is the project 6 description
     - name: 'twitter:image'
-      value: images/6.jpg
+      value: images/Test_Preparation.jpg
       relativeUrl: true
 layout: project
 subtitle: ILETS/PTE Preparation
