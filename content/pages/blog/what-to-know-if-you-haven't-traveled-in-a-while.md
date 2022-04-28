@@ -7,7 +7,11 @@ excerpt: travelling guide
 seo:
   title: What to Know if You Haven’t Travelled in a While
   robots: []
-  extra: []
+  extra:
+    - name: ''
+      value: ''
+      keyName: name
+      relativeUrl: false
   description: Going abroad during Covid is a whole new world - so be prepared
 subtitle: Travel guide
 image_alt: travelling girl
