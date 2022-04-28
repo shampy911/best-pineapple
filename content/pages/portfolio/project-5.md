@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 5
+      value: Campus Training
       keyName: property
     - name: 'og:description'
       value: This is the project 5 description
