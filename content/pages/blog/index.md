@@ -23,7 +23,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: blog
+      value: News
     - name: 'twitter:description'
       value: This is the blog news page
     - name: 'twitter:image'
