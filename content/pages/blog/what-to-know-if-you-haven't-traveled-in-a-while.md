@@ -5,7 +5,7 @@ date: '2022-04-28'
 thumb_image_alt: travelling guide
 excerpt: travelling guide
 seo:
-  title: ''
+  title: What to Know if You Haven’t Travelled in a While
   description: ''
   robots: []
   extra: []
