@@ -44,7 +44,7 @@ sections:
         default_value: lorem-ipsum
         options: []
         is_required: false
-        label: Contact Number
+        label: Contact-Number
     submit_label: Send Message
 seo:
   title: Contact
