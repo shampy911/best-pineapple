@@ -13,31 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: >-
-        “CREATE YOUR FUTURE…as companies are looking for SKILLED
-        CANDIDATES……..So let’s START”…
-
-
-        Vision Launcher offers a wide pool of courses and training preparing the
-        students to begin their professional careers. We conduct both in-house &
-        campus training through our domain experts. Our customized job oriented
-        value addition training program is the add-on feature for Campus
-        Training, without creating any disturbance in the pre-determined
-        determined Academic Calendar.
-
-
-        Our Campus Training focuses on improving the skill as per the Industry
-        Standards.
-
-
-        We have been in trainings for more than two decades and students have
-        been benefitted on various skills such as their soft skills,
-        Communication, technical and software.
-
-
-        We are experts in training students from Architecture, Designing,
-        Engineering, Medical, Management, Hospitality, Tourism and Education
-        sector.
+      value: Project Title 5
       keyName: property
     - name: 'og:description'
       value: This is the project 5 description
