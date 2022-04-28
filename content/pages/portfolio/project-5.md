@@ -4,7 +4,7 @@ date: '2019-01-05'
 thumb_image: images/5_thumb.jpg
 thumb_image_alt: A Campus Training scenario
 image: images/5.jpg
-image_alt: A white gamepad on a green background
+image_alt: A Campus Training scenario
 seo:
   title: Project Title 5
   description: This is the project 5 description
