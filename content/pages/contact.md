@@ -17,7 +17,7 @@ sections:
         is_required: true
       - type: form_field
         input_type: number
-        name: nontact number
+        name: contact number
         default_value: Contact Number
         options: []
         is_required: false
