@@ -21,7 +21,7 @@ sections:
         default_value: Contact Number
         options: []
         is_required: false
-        label: contact-umber
+        label: contact-number
       - input_type: email
         name: email
         label: Email
