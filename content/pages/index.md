@@ -104,7 +104,7 @@ seo:
       value: Abroad Heights Immigration Consultants
       keyName: property
     - name: 'og:image'
-      value: images/
+      value: images/Abroad Heights LOGO.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
