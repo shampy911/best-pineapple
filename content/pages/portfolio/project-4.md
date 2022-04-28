@@ -41,7 +41,7 @@ With over a decade of experience, in providing a client-focused approach to our 
 
 We offer a wide range of training sessions for the employees as well as the management with a subtle difference to suit all companies. In addition, to which the training programs are custom designed to suit the requirements and goals of every individual firm.
 
-*   [Communication skills](www.visionlauncher.com)
+*   [Communication skills](www.visionlauncher.in)
 
 *   Leadership skills
 
@@ -53,9 +53,9 @@ We offer a wide range of training sessions for the employees as well as the mana
 
 *   Stress Management
 
-*   [Sales](www.visionlauncher.com)
+*   [Sales](www.visionlauncher.in)
 
-*   [Retail](www.visionlauncher.com)
+*   [Retail](www.visionlauncher.in)
 
 *   Team Management
 
