@@ -3,7 +3,6 @@ layout: post
 title: What to Know if You Haven’t Travelled in a While
 date: '2022-04-28'
 thumb_image_alt: travelling guide
-image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
   title: ''
