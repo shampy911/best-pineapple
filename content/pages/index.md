@@ -83,7 +83,7 @@ sections:
     subtitle: What Our Students Say
   - section_id: blog-posts
     type: section_posts
-    title: blog from the blog
+    title: News
     subtitle: An optional subtitle of the section
     posts_number: 3
     col_number: three
