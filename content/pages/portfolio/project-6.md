@@ -19,7 +19,7 @@ seo:
       value: This is ILETS/PTE Preparation
       keyName: property
     - name: 'og:image'
-      value: images/6.jpg
+      value: images/ILETS/PTE Preparation.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
