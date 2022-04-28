@@ -15,7 +15,7 @@ seo:
       value: This is the Services page
       keyName: property
     - name: 'og:image'
-      value: images/1.jpg
+      value: images/
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
