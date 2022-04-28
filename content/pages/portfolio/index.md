@@ -9,7 +9,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Portfolio
+      value: Services
       keyName: property
     - name: 'og:description'
       value: This is the portfolio page
