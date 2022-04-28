@@ -1,6 +1,6 @@
 ---
 title: Campus Training
-date: '2021-02-05'
+date: '2021-02-03'
 thumb_image: /images/Campus_Training.jpg
 thumb_image_alt: A Campus Training scenario
 image: /images/Campus_Training.jpg
