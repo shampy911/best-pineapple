@@ -3,7 +3,7 @@ title: Visa Assistance
 date: '2022-01-15'
 thumb_image: /images/Visa_Assistance.jpg
 thumb_image_alt: Visa Assistance
-image: images/7.jpg
+image: /images/Visa_Assistance.jpg
 image_alt: Visa Assistance
 seo:
   title: Project Title 7
