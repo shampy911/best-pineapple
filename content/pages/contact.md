@@ -16,7 +16,7 @@ sections:
         default_value: Your name
         is_required: true
       - type: form_field
-        input_type: number
+        input_type: tel
         name: contact number
         default_value: Contact Number
         options: []
