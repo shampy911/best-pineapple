@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 7
+      value: Visa Assistance
       keyName: property
     - name: 'og:description'
       value: This is the project 7 description
