@@ -2,7 +2,7 @@
 title: Visa Assistance
 date: '2022-01-15'
 thumb_image: /images/Visa_Assistance.jpg
-thumb_image_alt: A black headphones on a yeallow background
+thumb_image_alt: Visa Assistance
 image: images/7.jpg
 image_alt: A black headphones on a yeallow background
 seo:
