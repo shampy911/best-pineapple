@@ -21,7 +21,7 @@ sections:
         default_value: phone number
         options: []
         is_required: false
-        label: Phone number
+        label: Phone Number
       - input_type: email
         name: email
         label: Email
