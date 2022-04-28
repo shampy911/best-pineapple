@@ -28,7 +28,7 @@ sections:
         options:
           - Get a call back
           - Visa Application
-          - Other
+          - Student Visa
       - input_type: textarea
         name: message
         label: Message
