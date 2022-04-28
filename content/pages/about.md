@@ -31,11 +31,22 @@ seo:
 layout: page
 subtitle: who we are
 ---
+> Our Vision
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+Being staunch followers of the words “SUCCESS FOLLOWS THE DILIGENT”, we aim at becoming outstanding consultancy provider of choice, who will work professionally, passionately and progressively with the single objective to give the highest standard of consultation to the client and be partner in the success.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+> Our Mission
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+The overall mission of us is to provide customized solution and consultancy to our clients Furthermore; we intend to fulfil our commitments on time and support our clients to achieve their goals.
 
-*Thank You for reading!*
+>
+> Our Values
+
+> **> Customer centricity** – we will provide excellent experience to our internal and external customers in every interaction with them.
+>
+> **> Accountability** – we will hold each other accountable for best business and financial results.
+>
+> **> Reciprocity**– we will provide positive reciprocity in all dealings with the customers.
+>
+> **> Entrepreneurship** – we will relentlessly pursue new opportunities – on day to day basis – to add value to our business. We will work smarter and achieve more with fewer resources.
+
