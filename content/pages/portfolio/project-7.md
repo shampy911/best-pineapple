@@ -7,7 +7,7 @@ image: /images/Visa_Assistance.jpg
 image_alt: Visa Assistance
 seo:
   title: Visa Assistance
-  description: 'Visa Assistance settle abroad '
+  description: Visa Assistance settle abroad USA Australia Canada
   extra:
     - name: 'og:type'
       value: website
