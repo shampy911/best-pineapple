@@ -112,7 +112,7 @@ seo:
     - name: 'twitter:title'
       value: Abroad Heights
     - name: 'twitter:description'
-      value: Best immigration consultants in Delhi India
+      value: Best immigration consultants in delhi India
     - name: 'twitter:image'
       value: images/Abroad Heights LOGO.jpg
       relativeUrl: true
