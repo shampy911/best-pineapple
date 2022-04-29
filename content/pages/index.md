@@ -118,6 +118,6 @@ seo:
       relativeUrl: true
   description: best immigration consultants in delhi India
   robots:
-    - index
+    - null
 layout: advanced
 ---
