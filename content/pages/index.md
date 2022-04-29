@@ -112,7 +112,7 @@ seo:
     - name: 'twitter:title'
       value: Abroad Heights
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: Best immigration consultants in Delhi India
     - name: 'twitter:image'
       value: images/Abroad Heights LOGO.jpg
       relativeUrl: true
