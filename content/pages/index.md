@@ -89,7 +89,7 @@ sections:
     col_number: two
     actions:
       - label: View News
-        url: /News
+        url: /blog
         style: button
 seo:
   title: Abroad Heights Immigration Consultants
