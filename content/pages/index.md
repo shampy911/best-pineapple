@@ -88,7 +88,7 @@ sections:
     posts_number: 3
     col_number: two
     actions:
-      - label: View News
+      - label: News
         url: News
         style: button
 seo:
