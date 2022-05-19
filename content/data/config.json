@@ -30,7 +30,8 @@
             {
                 "label": "Contact",
                 "url": "/contact/",
-                "style": "link"
+                "style": "link",
+                "icon": "instagram"
             }
         ],
         "logo_img": "/images/Abroad Heights LOGO.jpg",
