@@ -38,6 +38,7 @@
     },
     "footer": {
         "content": "&copy; All rights reserved. This website was created by Abroad Heights <a href=\"https://www.facebook.com\" target=\"_blank\" rel=\"noopener\">IT Team</a>. Contact devloper <a href=\"https://thunderous-cascaron-045ceb.netlify.app/" target=\"_blank\" rel=\"noopener\">now</a>",
+        "has_social": true," target=\"_blank\" rel=\"noopener\">now</a>",
         "has_social": true,
         "social_links": [
             {
