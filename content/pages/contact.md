@@ -6,7 +6,7 @@ sections:
     type: section_form
     content: >
       Hi there! Thank you so much for your interest in contacting us. Please
-      fill the contact form below or send us an email at abroadheights@gmail.com
+      fill the contact form below or send us an email at infoabroadheights@gmail.com
     form_id: contactForm
     form_action: /thank-you
     form_fields:
