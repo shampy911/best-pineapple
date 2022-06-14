@@ -116,10 +116,6 @@ seo:
     - name: 'twitter:image'
       value: images/Abroad Heights LOGO.jpg
       relativeUrl: true
-    - name: ''
-      value: ''
-      keyName: name
-      relativeUrl: false
   description: best immigration consultants in delhi India
   robots:
     - all
