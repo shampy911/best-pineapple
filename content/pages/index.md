@@ -119,6 +119,5 @@ seo:
   description: best immigration consultants in delhi India
   robots:
     - all
-    - all
 layout: advanced
 ---
