@@ -5,7 +5,7 @@ import '../sass/main.scss';
 export default function MyApp({ Component, pageProps }) {
     return <Component {...pageProps} />;
 <Script
-sr
+stra
 src="https://www.googletagmanager.com/gtag/js?id=G-2JV2WQ4T0X" />
 
 
