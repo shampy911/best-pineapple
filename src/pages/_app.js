@@ -6,7 +6,9 @@ export default function MyApp({ Component, pageProps }) {
     return <Component {...pageProps} />;
 <Script
 strategy="afterInteractive"
-src="https://www.googletagmanager.com/gtag/js?id=G-2JV2WQ4T0X" />
+src="https://www.googletagmanager.com/gtag/js?id=G-2JV2WQ4T0X" 
+
+/>
 
 
 }
